@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Current Projects<br>Building scalable data pipelines and real-time anomaly detection systems for high-impact applications.<br><br>👯 Collaboration Interests<br>Excited to work on projects involving backend development, API design, and data engineering.<br><br>🌱 Skills in Progress<br>Enhancing my expertise in cloud deployments, SQL optimization, and data streaming frameworks.<br><br>💬 Areas of Expertise<br>Python development, machine learning integration, and end-to-end data solutions.
+🔭 Current Projects<br>TellExcel: Speak to Your Spreadsheets – Powered by NLP, LangChain, and LLM for Seamless Data Mastery..<br><br>👯 Collaboration Interests<br>Excited to work on projects involving backend development, API design, and data engineering.<br><br>🌱 Skills in Progress<br>Enhancing my expertise in cloud deployments, SQL optimization, and data streaming frameworks.<br><br>💬 Areas of Expertise<br>Python development, machine learning integration, and end-to-end data solutions.
 
 
 ## 🌐 Socials:
