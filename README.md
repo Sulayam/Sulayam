@@ -22,10 +22,6 @@
 
 I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent architectures**, and **real-time data systems**.
 
-- Reduced LLM pipeline development time from **1 month → 15 minutes** using DSPy
-- Achieved **99.4% structured data extraction accuracy** from complex onboarding PDFs
-- **UAE Golden Visa Holder**
-
 ---
 
 ## Featured Projects
