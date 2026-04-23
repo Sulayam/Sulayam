@@ -212,9 +212,6 @@ An end-to-end **medical image classification pipeline** classifying blood cells 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=sulayam&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 
 <div align="center">
