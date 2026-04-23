@@ -164,35 +164,27 @@ An end-to-end **medical image classification pipeline** classifying blood cells 
 
 ## Tech Stack
 
-**AI & LLM Engineering**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
-![DSPy](https://img.shields.io/badge/DSPy-4B0082?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Architectures-green?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-Servers-teal?style=for-the-badge)
+<div align="center">
 
-**Backend & APIs**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+**Languages & Frameworks**
 
-**ML & Deep Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+[![Skills](https://skillicons.dev/icons?i=python,fastapi,ts,react,django,docker)](https://skillicons.dev)
 
-**Data & Streaming**
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Cloud & Infrastructure**
+
+[![Skills](https://skillicons.dev/icons?i=aws,linux,git,github)](https://skillicons.dev)
+
+**ML & Computer Vision**
+
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)
+
+**Databases & Streaming**
+
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,kafka)](https://skillicons.dev)
+
+</div>
+
+**Also:** LangChain · AWS Bedrock · OpenAI · CrewAI · DSPy · HuggingFace · Apache Spark · Neo4j · Scikit-learn · RAG Architectures · MCP Servers
 
 ---
 
