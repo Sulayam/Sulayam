@@ -20,12 +20,11 @@
 
 > *Building autonomous AI systems that think, act, and collaborate — at production scale.*
 
-I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent architectures**, and **real-time data systems**. Currently building AI-driven healthcare pricing solutions at **Yugen AI** using AWS Bedrock. Previously shipped production anomaly detection pipelines at **ADNOC**.
+I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent architectures**, and **real-time data systems**.
 
-- Currently architecting multi-agent systems on AWS Bedrock for healthcare pricing optimization
 - Reduced LLM pipeline development time from **1 month → 15 minutes** using DSPy
 - Achieved **99.4% structured data extraction accuracy** from complex onboarding PDFs
-- **UAE Golden Visa Holder** · Open to global AI engineering opportunities
+- **UAE Golden Visa Holder**
 
 ---
 
@@ -206,7 +205,5 @@ An end-to-end **medical image classification pipeline** classifying blood cells 
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=sulayam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-*Open to Global AI Engineering Roles*
 
 </div>
