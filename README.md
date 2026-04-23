@@ -113,6 +113,8 @@ An AI-powered game simulation engine that brings real UFC fighters to life as **
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
 
+<img width="1181" height="652" alt="image" src="https://github.com/user-attachments/assets/929be5f8-f3f5-45c0-8509-6dfe2de9a1fe" />
+
 A real-time voice AI system where **autonomous agents handle outbound cold calls**, qualify buyer intent, and execute **warm transfers** to human salespeople only when a genuinely interested lead is detected — eliminating wasted sales rep time.
 
 **Highlights:**
