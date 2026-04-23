@@ -192,8 +192,11 @@ An end-to-end **medical image classification pipeline** classifying blood cells 
 
 <div align="center">
 
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sulayam&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ![](https://github-readme-stats.vercel.app/api?username=sulayam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sulayam&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sulayam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
