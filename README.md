@@ -143,6 +143,12 @@ An **LLM pipeline** that transforms long-form PDF documents into engaging two-ho
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
+
+
+https://github.com/user-attachments/assets/2eee6eab-a121-4402-bbca-2922bfe362b8
+
+
+
 An end-to-end **medical image classification pipeline** classifying blood cells (Eosinophil, Lymphocyte, Monocyte, Neutrophil) to support automated diagnostics and reduce manual pathology workload.
 
 **Highlights:**
