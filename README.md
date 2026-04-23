@@ -102,6 +102,7 @@ A real-time voice AI system where **autonomous agents handle outbound cold calls
 
 <img width="1666" height="890" alt="image" src="https://github.com/user-attachments/assets/bb44a25f-5dca-4be0-b197-27b1c135c8b5" />
 
+
 A production-grade **real-time anomaly detection pipeline** built during my ADNOC internship. Streams live sensor data through Kafka, processes with Spark, and runs three ML algorithms simultaneously to flag anomalies as they occur.
 
 **Highlights:**
