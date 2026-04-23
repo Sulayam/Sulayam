@@ -29,12 +29,14 @@ I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent arc
 ### 🥊 FIGHTER AGENTS — UFC AI Simulation Engine
 > *"What if UFC fighters were autonomous AI agents that think, strategize, and fight?"*
 
-<img width="2202" height="1644" alt="image" src="https://github.com/user-attachments/assets/747e6f76-8e9f-47aa-80b6-ece3587ee8f9" />
-
 [![Repo](https://img.shields.io/badge/GitHub-FIGHTERAGENTS-black?logo=github)](https://github.com/Sulayam/FIGHTERAGENTS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![AI Agents](https://img.shields.io/badge/AI-Agents-blueviolet)
 ![Game AI](https://img.shields.io/badge/Game-Simulation-orange)
+
+
+https://github.com/user-attachments/assets/e5636c50-479e-47e4-bba9-cd2d776d78a8
+
 
 An AI-powered game simulation engine that brings real UFC fighters to life as **interactive autonomous agents**. Each fighter is modeled with unique personality, combat style, and reactive decision-making — creating fully simulated fights driven entirely by AI.
 
