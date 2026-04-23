@@ -145,7 +145,11 @@ An **LLM pipeline** that transforms long-form PDF documents into engaging two-ho
 
 
 
-https://github.com/user-attachments/assets/2eee6eab-a121-4402-bbca-2922bfe362b8
+
+
+https://github.com/user-attachments/assets/f129b6ff-1bf2-4585-943c-f8b8423e8b9e
+
+
 
 
 
