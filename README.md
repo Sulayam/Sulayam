@@ -29,6 +29,8 @@ I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent arc
 ### 🥊 FIGHTER AGENTS — UFC AI Simulation Engine
 > *"What if UFC fighters were autonomous AI agents that think, strategize, and fight?"*
 
+<img width="2202" height="1644" alt="image" src="https://github.com/user-attachments/assets/747e6f76-8e9f-47aa-80b6-ece3587ee8f9" />
+
 [![Repo](https://img.shields.io/badge/GitHub-FIGHTERAGENTS-black?logo=github)](https://github.com/Sulayam/FIGHTERAGENTS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![AI Agents](https://img.shields.io/badge/AI-Agents-blueviolet)
@@ -47,6 +49,12 @@ An AI-powered game simulation engine that brings real UFC fighters to life as **
 
 ### 💬 AVA — Multimodal WhatsApp AI Agent
 > *"A full-stack AI companion living inside WhatsApp — voice, vision, memory, everything."*
+
+<p align="center">
+        <img alt="logo" src="img/ava_final_design.gif" width=1000 />
+    <h1 align="center">📱 Ava 📱</h1>
+    <h3 align="center">Turning the Turing Test into a WhatsApp Agent</h3>
+</p>
 
 [![Repo](https://img.shields.io/badge/GitHub-whatsapp--ai--assistant-black?logo=github)](https://github.com/Sulayam/whatsapp-ai-assistant)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
