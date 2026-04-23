@@ -95,12 +95,12 @@ A real-time voice AI system where **autonomous agents handle outbound cold calls
 ### 📡 Real-Time Data Anomaly Detection
 > *"Catch anomalies in live oil & gas sensor streams before they become incidents."*
 
-<img width="1666" height="890" alt="image" src="https://github.com/user-attachments/assets/bb44a25f-5dca-4be0-b197-27b1c135c8b5" />
-
 [![Repo](https://img.shields.io/badge/GitHub-Real--Time_Data_Anomaly_Detection-black?logo=github)](https://github.com/Sulayam/Real-Time_Data_Anomaly_Detection)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?logo=apachekafka)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+
+<img width="1666" height="890" alt="image" src="https://github.com/user-attachments/assets/bb44a25f-5dca-4be0-b197-27b1c135c8b5" />
 
 A production-grade **real-time anomaly detection pipeline** built during my ADNOC internship. Streams live sensor data through Kafka, processes with Spark, and runs three ML algorithms simultaneously to flag anomalies as they occur.
 
