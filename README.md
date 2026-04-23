@@ -50,11 +50,7 @@ An AI-powered game simulation engine that brings real UFC fighters to life as **
 ### 💬 AVA — Multimodal WhatsApp AI Agent
 > *"A full-stack AI companion living inside WhatsApp — voice, vision, memory, everything."*
 
-<p align="center">
-        <img alt="logo" src="img/ava_final_design.gif" width=1000 />
-    <h1 align="center">📱 Ava 📱</h1>
-    <h3 align="center">Turning the Turing Test into a WhatsApp Agent</h3>
-</p>
+<img width="1550" height="1000" alt="ava_final_design" src="https://github.com/user-attachments/assets/92a07c8d-6a52-4b16-9b56-88c00634fc42" />
 
 [![Repo](https://img.shields.io/badge/GitHub-whatsapp--ai--assistant-black?logo=github)](https://github.com/Sulayam/whatsapp-ai-assistant)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
