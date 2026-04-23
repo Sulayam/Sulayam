@@ -156,6 +156,12 @@ A production-grade **real-time anomaly detection pipeline** built during my ADNO
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
+
+
+https://github.com/user-attachments/assets/a0c8d583-af52-4a2f-800c-d0a6391402d8
+
+
+
 An **LLM pipeline** that transforms long-form PDF documents into engaging two-host podcast scripts, complete with a **verification layer** that audits the output for factual accuracy and content coverage against the source.
 
 **Highlights:**
