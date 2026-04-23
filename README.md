@@ -18,7 +18,7 @@
 
 ## About Me
 
-> *Building autonomous AI systems that think, act, and collaborate — at production scale.*
+> *Building autonomous AI systems that think, act, and collaborate at production scale.*
 
 I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent architectures**, and **real-time data systems**.
 
