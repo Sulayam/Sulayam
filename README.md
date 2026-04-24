@@ -1,3 +1,4 @@
+<img width="252" height="164" alt="Adobe Express - Adobe Express - fighter-agents-demo-short" src="https://github.com/user-attachments/assets/d942c3c8-ee99-47db-aa82-c4b0fb8fe489" />
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%F0%9F%A4%96;LLM+%26+Multi-Agent+Builder+%F0%9F%94%A5;Shipping+Autonomous+AI+Systems" alt="Typing SVG" />
 </div>
@@ -43,6 +44,8 @@ I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent arc
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c81dae7c-ca7e-4508-a688-3b21e4f3d706" width="90%" />
 </div>
+<img width="252" height="164" alt="Adobe Express - Adobe Express - fighter-agents-demo-short" src="https://github.com/user-attachments/assets/aa4e2655-8b31-4522-a521-eb1008820850" />
+
 
 
 An AI-powered game simulation engine that brings real UFC fighters to life as **interactive autonomous agents**. Each fighter is modeled with unique personality, combat style, and reactive decision-making — creating fully simulated fights driven entirely by AI.
