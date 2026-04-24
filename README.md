@@ -1,4 +1,3 @@
-<img width="252" height="164" alt="Adobe Express - Adobe Express - fighter-agents-demo-short" src="https://github.com/user-attachments/assets/d942c3c8-ee99-47db-aa82-c4b0fb8fe489" />
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%F0%9F%A4%96;LLM+%26+Multi-Agent+Builder+%F0%9F%94%A5;Shipping+Autonomous+AI+Systems" alt="Typing SVG" />
 </div>
