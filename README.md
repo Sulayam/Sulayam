@@ -41,6 +41,9 @@ I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent arc
 
 
 <img width="512" height="288" alt="26d24820-7a32-45c4-be11-e13ce41d2f67 (1)" src="https://github.com/user-attachments/assets/c81dae7c-ca7e-4508-a688-3b21e4f3d706" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c81dae7c-ca7e-4508-a688-3b21e4f3d706" alt="26d24820-7a32-45c4-be11-e13ce41d2f67 (1)" width="90%" />
+</div>
 
 
 An AI-powered game simulation engine that brings real UFC fighters to life as **interactive autonomous agents**. Each fighter is modeled with unique personality, combat style, and reactive decision-making — creating fully simulated fights driven entirely by AI.
