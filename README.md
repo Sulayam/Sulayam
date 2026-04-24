@@ -42,9 +42,8 @@ I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent arc
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c81dae7c-ca7e-4508-a688-3b21e4f3d706" width="90%" />
+  <img src="https://github.com/user-attachments/assets/aa4e2655-8b31-4522-a521-eb1008820850" width="90%" />
 </div>
-<img width="252" height="164" alt="Adobe Express - Adobe Express - fighter-agents-demo-short" src="https://github.com/user-attachments/assets/aa4e2655-8b31-4522-a521-eb1008820850" />
 
 
 
