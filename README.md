@@ -39,7 +39,6 @@ I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent arc
 ![AI Agents](https://img.shields.io/badge/AI-Agents-blueviolet)
 ![Game AI](https://img.shields.io/badge/Game-Simulation-orange)
 
-https://github.com/user-attachments/assets/e5636c50-479e-47e4-bba9-cd2d776d78a8
 
 <img width="512" height="288" alt="26d24820-7a32-45c4-be11-e13ce41d2f67 (1)" src="https://github.com/user-attachments/assets/c81dae7c-ca7e-4508-a688-3b21e4f3d706" />
 
