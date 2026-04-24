@@ -36,12 +36,16 @@ I'm an **AI/ML Engineer** specializing in **LLM engineering**, **multi-agent arc
 
 [![Repo](https://img.shields.io/badge/GitHub-FIGHTERAGENTS-black?logo=github)](https://github.com/Sulayam/FIGHTERAGENTS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+
+
+
 ![AI Agents](https://img.shields.io/badge/AI-Agents-blueviolet)
 ![Game AI](https://img.shields.io/badge/Game-Simulation-orange)
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/aa4e2655-8b31-4522-a521-eb1008820850" width="90%" />
+  <img src="[https://github.com/user-attachments/assets/aa4e2655-8b31-4522-a521-eb1008820850](https://github.com/user-attachments/assets/4da5a1b3-9d95-46ce-8bd6-1cc23a2ad4ad)" width="90%" />
 </div>
 
 
